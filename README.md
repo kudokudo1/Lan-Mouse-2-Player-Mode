@@ -1,4 +1,20 @@
+✦︎✦︎✦︎ Meta Apollo Logos //
+
 # Lan Mouse // 2-Player Mode
+
+![](./assets/post-apollo-focus-rail.svg)
+
+![Lan Mouse // 2-Player Mode](./assets/post-apollo-lan-mouse-banner.svg)
+
+> **STATE //** experimental \~\~ **VIEW //** multi-operator input layer
+
+The multi-operator input layer of the Post-Apollo Family — enhancing the relationship between operators, input, seats, machines, shared space, and independent agency, extending networked mouse and keyboard sharing so multiple people can move between multiple computers while preserving separate control, focus, and identity.
+
+**PUBLIC FAMILY //** [META APOLLO LOGOS](https://github.com/kudokudo1/Meta-Apollo-Logos) · [DEV EXP](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) · [FOREST](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) · [SWAYPX](https://github.com/kudokudo1/Post-Apollo-SwayPx)
+
+> **FORK LINEAGE //** This fork preserves the inherited Lan Mouse project and its upstream documentation while extending it experimentally toward independent multi-seat, multi-operator control.
+
+---
 
 [![CI](https://github.com/feschber/lan-mouse/actions/workflows/rust.yml/badge.svg)](https://github.com/feschber/lan-mouse/actions/workflows/rust.yml) [![Cachix](https://github.com/feschber/lan-mouse/actions/workflows/cachix.yml/badge.svg)](https://github.com/feschber/lan-mouse/actions/workflows/cachix.yml) [![Release](https://github.com/feschber/lan-mouse/actions/workflows/release.yml/badge.svg)](https://github.com/feschber/lan-mouse/actions/workflows/release.yml)
 
