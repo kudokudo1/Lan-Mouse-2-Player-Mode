@@ -1,4 +1,4 @@
-# Lan Mouse 2-Player Mode
+# Lan Mouse // 2-Player Mode
 
 [![CI](https://github.com/feschber/lan-mouse/actions/workflows/rust.yml/badge.svg)](https://github.com/feschber/lan-mouse/actions/workflows/rust.yml) [![Cachix](https://github.com/feschber/lan-mouse/actions/workflows/cachix.yml/badge.svg)](https://github.com/feschber/lan-mouse/actions/workflows/cachix.yml) [![Release](https://github.com/feschber/lan-mouse/actions/workflows/release.yml/badge.svg)](https://github.com/feschber/lan-mouse/actions/workflows/release.yml)
 
