@@ -12,7 +12,7 @@ The multi-operator input layer of the Post-Apollo Family — enhancing the relat
 
 **PUBLIC FAMILY //** [META APOLLO LOGOS](https://github.com/kudokudo1/Meta-Apollo-Logos) · [DEV EXP](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) · [FOREST](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) · [SWAYPX](https://github.com/kudokudo1/Post-Apollo-SwayPx)
 
-**RULES //** [Syntagma // shared operator and AI working rules](https://github.com/kudokudo1/Meta-Apollo-Logos-How-I-Think/blob/main/AGENTS.md) · [Meta Apollo design grammar](https://github.com/kudokudo1/Meta-Apollo-Logos/blob/main/MODEL/Repo-Design-Language.md) · [Existing local project guidance](./AGENTS.md)
+**RULES //** [Syntagma // shared operator and AI working rules](https://github.com/kudokudo1/Meta-Apollo-Logos-Syntagma/blob/main/AGENTS.md) · [Meta Apollo design grammar](https://github.com/kudokudo1/Meta-Apollo-Logos/blob/main/MODEL/Repo-Design-Language.md) · [Existing local project guidance](./AGENTS.md)
 
 > **FORK LINEAGE //** This fork preserves the inherited Lan Mouse project and its upstream documentation while extending it experimentally toward independent multi-seat, multi-operator control.
 
